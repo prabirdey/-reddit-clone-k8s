@@ -1,5 +1,5 @@
 # Reddit Clone App via K8S using AWS EKS
-This project demonstrates how to deploy a Reddit clone app on Kubernetes with Ingress and expose it to the world using Minikube as the cluster.
+This project demonstrates how to deploy a Reddit clone app on Kubernetes by using AWS EKS
 
 # Project Summary:
 
