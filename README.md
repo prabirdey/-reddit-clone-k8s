@@ -12,7 +12,7 @@ Before you begin, you should have the following tools installed on your local ma
 You can install Prerequisites by doing this steps. [click here & complete all steps one by one]().
 
 
-## Installations
+## Installation
 Follow these steps to install and run the Reddit clone app on your local machine:
 
 1) Clone this repository to your local machine: `git clone https://github.com/LondheShubham153/reddit-clone-k8s-ingress.git`
